@@ -1,0 +1,26 @@
+{
+  "name": "rfidreader-tools",
+  "version": "1.0.0",
+  "description": "Tools for RFID reader",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kant2002/node-rfidreader-tools.git"
+  },
+  "keywords": [
+    "RFID"
+  ],
+  "author": "Andrey Kurdyumov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kant2002/node-rfidreader-tools/issues"
+  },
+  "homepage": "https://github.com/kant2002/node-rfidreader-tools#readme",
+  "dependencies": {
+    "rfidreader": "~0.0.3",
+    "yargs": "^3.29.0"
+  }
+}
